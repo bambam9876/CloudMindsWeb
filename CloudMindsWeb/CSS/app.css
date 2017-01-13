@@ -1,0 +1,46 @@
+﻿body {
+    background: white;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+}
+
+.navbar-button {
+    color: white;
+    font-size: 13px;
+    margin-right: 5px;
+    margin-top: 15px;
+    text-transform: uppercase;
+}
+
+.navbar-dropDownItem {
+    font-size: 13px;
+    min-width: 150px;
+    height: 40px;
+    padding-top: 13px!important;
+    background: transparent;
+    color: white;
+    text-transform: uppercase;
+}
+
+.solutions-large {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(74,74,74);
+    text-align: center;
+    text-transform: uppercase;
+    vertical-align: top;
+ 
+}
+
+.solutions-small {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    color: rgb(74,74,74);
+    text-align: center;
+    height: 150px;
+    vertical-align: top;
+}
